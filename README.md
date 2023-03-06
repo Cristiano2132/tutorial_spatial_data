@@ -24,7 +24,7 @@ Output Example: `/Library/frameworks/python.framework/versions/3.10/bin/python3`
 
 	5.1. go to the project directory, type: `cd tutorial_spatial_data`
 
-5.2. create the venv, type: `python3 -m virtualenv -p /Library/Frameworks/Python.framework/Versions/3.10/bin/python3 .venv`
+	5.2. create the venv, type: `python3 -m virtualenv -p /Library/Frameworks/Python.framework/Versions/3.10/bin/python3 .venv`
 
 Remember,  `/Library/Frameworks/Python.framework/Versions/3.10/bin/python3` is the python 3.10 path found in step 4. 
 
