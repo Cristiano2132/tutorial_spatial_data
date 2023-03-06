@@ -6,7 +6,7 @@ To run the tutorial in your machine, follow the next steps.
 
   
 
-2. Clone the Directory typing: git clone git `git@github.com:Cristiano2132/tutorial_spatial_data.git`
+2. Clone the Directory typing: `git clone git git@github.com:Cristiano2132/tutorial_spatial_data.git`
 
  
 
