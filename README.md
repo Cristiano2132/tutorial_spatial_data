@@ -12,28 +12,21 @@ To run the tutorial in your machine, follow the next steps.
 
 3. Install Python 3.10 on your computer if it is not installed. 
 
- 
 
-4. Find python 3.10 path. Type the command: `where python3`
+4. Create a virtual environment 
 
-Output Example: `/Library/frameworks/python.framework/versions/3.10/bin/python3`
+	4.1. go to the project directory, type: `cd tutorial_spatial_data`
 
-  
+	4.2. create the venv, type: `python3.10 -m venv .venv`
 
-5. Create a virtual environment 
 
-	5.1. go to the project directory, type: `cd tutorial_spatial_data`
 
-	5.2. create the venv, type: `python3 -m virtualenv -p /Library/Frameworks/Python.framework/Versions/3.10/bin/python3 .venv`
-
-Remember,  `/Library/Frameworks/Python.framework/Versions/3.10/bin/python3` is the python 3.10 path found in step 4. 
-
-6. Activate the virtual environment, type: `source .venv/bin/activate`
+5. Activate the virtual environment, type: `source .venv/bin/activate`
 
  
 
-7. Install the dependencies: `pip install -r requirements.txt`
+6. Install the dependencies: `pip install -r requirements.txt`
 
  
 
-8. Congratulations, now you are able to run the tutorial. 
+7. Congratulations, now you are able to run the tutorial. 
